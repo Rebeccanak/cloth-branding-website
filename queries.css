@@ -1,0 +1,130 @@
+@media only screen and (max-width: 480px) {
+    /* Navigation bar */
+    nav ul {
+        display: none;
+    }
+    nav ul li {
+        display: block;
+    }
+    /* Home section */
+    .home button {
+        font-size: 16px;
+        padding: 10px 20px;
+    }
+    .home p {
+        font-size: 14px;
+        line-height: 1.5;
+    }
+    /* Weekly Selection section */
+    .week, #dress, #top {
+        font-size: 20px;
+    }
+    /* Product images */
+    .img img {
+        width: 100%;
+    }
+    /* Scarlet section */
+    .scarlet p {
+        font-size: 16px;
+    }
+    .scarlet p:first-child {
+        margin-top: 0;
+    }
+    /* View All Products button */
+    #but {
+        font-size: 16px;
+        padding: 10px 20px;
+    }
+    /* Auguste The Label section */
+    .welcome p, .welcome h1 {
+        font-size: 24px;
+        line-height: 1.5;
+    }
+    /* Footer section */
+    .footer h2, .footer p {
+        font-size: 16px;
+    }
+    /* Social media icons */
+    .icons {
+        font-size: 24px;
+    }
+}
+
+/* Mobile Devices (landscape) */
+@media only screen and (min-width: 481px) and (max-width: 767px) {
+    /* Navigation bar */
+    nav ul li {
+        display: inline-block;
+        margin: 0 10px;
+    }
+    /* Home section */
+    .home button {
+        font-size: 20px;
+        padding: 15px 25px;
+    }
+    /* Weekly Selection section */
+    .week, #dress, #top {
+        font-size: 24px;
+    }
+    /* Scarlet section */
+    .scarlet p {
+        font-size: 20px;
+    }
+    /* View All Products button */
+    #but {
+        font-size: 20px;
+        padding: 15px 25px;
+    }
+    /* Auguste The Label section */
+    .welcome p, .welcome h1 {
+        font-size: 28px;
+        line-height: 1.5;
+    }
+    /* Footer section */
+    .footer h2, .footer p {
+        font-size: 20px;
+    }
+    /* Social media icons */
+    .icons {
+        font-size: 28px;
+    }
+}
+
+/* Tablets */
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+    /* Navigation bar */
+    nav ul li {
+        display: inline-block;
+        margin: 0 20px;
+    }
+    /* Home section */
+    .home button {
+        font-size: 24px;
+        padding: 20px 30px;
+    }
+    /* Weekly Selection section */
+    .week, #dress, #top {
+        font-size: 28px;
+    }
+    /* Scarlet section */
+    .scarlet p {
+        font-size: 24px;
+    }
+    /* View All Products button */
+    #but {
+        font-size: 24px;
+        padding: 20px 30px;
+    }
+    /* Auguste The Label section */
+    .welcome p, .welcome h1 {
+        font-size: 32px;
+        line-height: 1.5;
+    }
+    /* Footer section */
+
+
+
+
+
+}
+
